@@ -63,6 +63,7 @@ a:hover{
   width: 25%;
   float: right;
   margin-left: 50px;
+  border-radius: 50%;
 }
 .heart{
   width: 25%;
